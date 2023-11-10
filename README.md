@@ -1,7 +1,7 @@
 [![](https://readme-typing-svg.herokuapp.com?color=solarized_dark&lines=Hi!+I+am+mabter;I+like+programming)](https://git.io/typing-svg) 
 
 
-[![](https://readme-typing-svg.herokuapp.com?color=ff0000&lines=I'm+learning+html,css,python;I+want+to+be+Fullstack+web+developer)](https://git.io/typing-svg) 
+[![](https://readme-typing-svg.herokuapp.com?color=solarized_dark&lines=I'm+learning+html,css,python;I+want+to+be+Fullstack+web+developer)](https://git.io/typing-svg) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mabter&theme=solarized_dark)
 <!---
